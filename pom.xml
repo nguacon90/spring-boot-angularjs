@@ -104,6 +104,8 @@
 				<filtering>true</filtering>
 				<includes>
 					<include>**/*.html</include>
+					<include>**/*.js</include>
+					<include>**/*.css</include>
 				</includes>
 			</resource>
 		</resources>
