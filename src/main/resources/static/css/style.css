@@ -2,3 +2,17 @@ body {
 	padding-bottom: 30px;
 	padding-top: 50px;
 }
+
+.icon {
+	height: 13px;
+	width: 22px;
+	margin-top: 18px;
+}
+
+.icon-en {
+	background: url("images/icon/en.png") no-repeat;
+}
+
+.icon-vi {
+	background: url("images/icon/vn.png") no-repeat;
+}
